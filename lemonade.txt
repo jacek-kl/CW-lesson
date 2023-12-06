@@ -4,3 +4,4 @@ Lemonade recipe:
 3. Honey
 4. Ice
 5. Mint
+6. Glass
